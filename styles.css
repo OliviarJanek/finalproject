@@ -22,3 +22,43 @@ a:visited{
     color:black;
     text-decoration:none;
 }
+
+#startscreen{
+    background: url(Start.jpg) center fixed no-repeat;
+}
+
+#paths{
+    background: url(Paths.jpg) center fixed no-repeat;
+}
+
+#leftpath{
+    background: url(LeftPath.jpg) center fixed no-repeat;
+}
+
+#rightpath{
+    background: url(RightPath.jpg) center fixed no-repeat;
+}
+
+#turnaround{
+    background: url(TurnAround.jpg) center fixed no-repeat;
+}
+
+#closeup{
+    background: url(CloseUp.jpg) center fixed no-repeat;
+}
+
+#church{
+    background: url(Church.jpg) center fixed no-repeat;
+}
+
+#churchgrim{
+    background: url(ChurchGrim.jpg) center fixed no-repeat;
+}
+
+#dog{
+    background: url(Dog.jpg) center fixed no-repeat;
+}
+
+#goodpupper{
+    background: url(GoodPupper.jpg) center fixed no-repeat;
+}
