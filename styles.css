@@ -23,46 +23,53 @@ a:visited{
     text-decoration:none;
 }
 
-#startscreen{
+.credits{
+    color:black;
+    text-align:center;
+    margin:auto;
+    width:75%;
+}
+
+.startscreen{
     background: url(assets/Start.jpg) center fixed no-repeat;
 }
 
-#credits{
+.credits{
     background: url(assets/Credits.jpg) center fixed no-repeat;
 }
 
-#paths{
+.paths{
     background: url(assets/Paths.jpg) center fixed no-repeat;
 }
 
-#leftpath{
+.leftpath{
     background: url(assets/LeftPath.jpg) center fixed no-repeat;
 }
 
-#rightpath{
+.rightpath{
     background: url(assets/RightPath.jpg) center fixed no-repeat;
 }
 
-#turnaround{
+.turnaround{
     background: url(assets/TurnAround.jpg) center fixed no-repeat;
 }
 
-#closeup{
+.closeup{
     background: url(assets/CloseUp.jpg) center fixed no-repeat;
 }
 
-#church{
+.church{
     background: url(assets/Church.jpg) center fixed no-repeat;
 }
 
-#churchgrim{
+.churchgrim{
     background: url(assets/ChurchGrim.jpg) center fixed no-repeat;
 }
 
-#dog{
+.dog{
     background: url(assets/Dog.jpg) center fixed no-repeat;
 }
 
-#goodpupper{
+.goodpupper{
     background: url(assets/GoodPupper.jpg) center fixed no-repeat;
 }
