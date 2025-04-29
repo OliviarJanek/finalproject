@@ -2,17 +2,20 @@ h1{
     color:#ffeeee;
     font-family: 'Times New Roman', Times, serif;
     margin-left:30%;
+    margin-top:auto;
 }
 
 h2{
     color:#ffeeee;
     font-family: 'Times New Roman', Times, serif;
     margin-left:30%;
+    margin-top:auto;
 }
 
 p{
     color:#ffeeee;
     font-family: 'Times New Roman', Times, serif;
+    margin:auto;
 }
 
 a{
