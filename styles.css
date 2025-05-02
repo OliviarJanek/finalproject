@@ -15,8 +15,7 @@ h2{
 p{
     color:#ffeeee;
     font-family: 'Times New Roman', Times, serif;
-    padding-top:5px;
-    padding-left:5px;
+    padding:5px bottom;
 }
 
 a{
