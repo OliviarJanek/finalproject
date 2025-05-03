@@ -41,6 +41,12 @@ a{
     background-color:black;
 }
 
+.endtext{
+    text-align: center;
+    padding:center;
+    font-size:xx-large;
+}
+
 .credits{
     background: url(assets/Credits.jpg) center fixed no-repeat;
 }
