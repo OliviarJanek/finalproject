@@ -31,8 +31,14 @@ a{
     width:75%;
 }
 
+/*So. Many. Backgrounds. */
+
 .startscreen{
     background: url(assets/Start.jpg) center fixed no-repeat;
+}
+
+.endscreen{
+    background-color:black;
 }
 
 .credits{
@@ -75,6 +81,9 @@ a{
     background: url(assets/GoodPupper.jpg) center fixed no-repeat;
 }
 
+/*I made the text shake using code from these two links: https://www.w3schools.com/howto/howto_css_shake_image.asp and 
+https://stackoverflow.com/questions/73537320/how-do-i-make-the-html-window-appear-to-shake . This is because I didn't know the javascript to make it on my own! */
+
 #myDiv {
   /* Start the shake animation and make the animation last for 0.5 seconds */
   animation: shake 0.5s;
@@ -95,4 +104,15 @@ a{
   80% { transform: translate(-1px, -1px) rotate(1deg); }
   90% { transform: translate(1px, 2px) rotate(0deg); }
   100% { transform: translate(1px, -2px) rotate(-1deg); }
+}
+
+/* I also liked how this fade in text worked, so I added it as well for my ending screens https://blog.hubspot.com/website/css-fade-in */
+
+.fade-in{
+    animation: fadeIn 3s;
+}
+
+@keyframes fadeIn{
+    0% {opacity:0;}
+    100% {opacity:100;}
 }
