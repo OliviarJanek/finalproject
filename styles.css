@@ -21,8 +21,7 @@ p{
 
 a{
     color:#ffeeee;
-    text-decoration:none;
-    background-color:#ff2727;
+    text-decoration:underline;
 }
 
 .credits{
